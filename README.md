@@ -10,17 +10,17 @@
 
 
 
-### Favourites ###
+## Favourites ##
   - [caesar.salad](https://github.com/mightbesimon/caesar.salad)
   - [PONG](https://github.com/mightbesimon/PONG)
 
-### Education ###
+## Education ##
 
 - #### Univeristy of Auckland ####
   - [UoA Engineering 2019](https://github.com/mightbesimon/UoA-Engineering-2019)
   - [Uoa CompSci 2020](https://github.com/mightbesimon/Uoa-CompSci-2020)
 
-### by Category ###
+## by Category ##
 
 - #### Cryptography ####
   - [caesar.salad](https://github.com/mightbesimon/caesar.salad)
@@ -48,7 +48,7 @@
 
 
 
-### by Language ###
+## by Language ##
 
 - #### Python ####
   - [caesar.salad](https://github.com/mightbesimon/caesar.salad)
