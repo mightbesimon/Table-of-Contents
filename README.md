@@ -3,36 +3,24 @@
 > a showcase of repos and gists from [mightbesimon](https://github.com/mightbesimon/)  
 > contents below are orignal work
 
-- [Favourites](#Favourites)
-- [Education](#University)
-  - [University of Auckland](#University)
-- [by Category](#Cryptography)
-  - [Cryptography](#Cryptography)
-  - [Games](#Games)
-  - [Image Processing](#Image)
-  - [Scripts & Malware](#Scripts)
-  - [Data & Structure](#Data)
-  - [Machine Learning](#Machine)
-  - [Miscellaneous](#Miscellaneous)
-- [by Language](#by)
-  - [Python](#Python)
-  - [C](#C)
-  - [Assembly](#Assemblt)
-  - [MATLAB](#MATLAB)
+- [Favourites](#favourites)
+- [Education](#education)
+- [by Category](#by-category)
+- [by Language](#by-language)
 
 
 
-- #### Favourites ####
+### Favourites ###
   - [caesar.salad](https://github.com/mightbesimon/caesar.salad)
   - [PONG](https://github.com/mightbesimon/PONG)
 
-
+### Education ###
 
 - #### Univeristy of Auckland ####
   - [UoA Engineering 2019](https://github.com/mightbesimon/UoA-Engineering-2019)
   - [Uoa CompSci 2020](https://github.com/mightbesimon/Uoa-CompSci-2020)
 
-
+### by Category ###
 
 - #### Cryptography ####
   - [caesar.salad](https://github.com/mightbesimon/caesar.salad)
