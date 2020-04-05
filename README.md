@@ -1,21 +1,38 @@
 # Table of Contents #
 
-- [Favourites]()
-- [by Topic]()
-- [by Language]()
+> a showcase of repos and gists from [mightbesimon](https://github.com/mightbesimon/)  
+> contents below are orignal work
+
+- [Favourites](#Favourites)
+- [Education](#University)
+  - [University of Auckland](#University)
+- [by Category](#Cryptography)
+  - [Cryptography](#Cryptography)
+  - [Games](#Games)
+  - [Image Processing](#Image)
+  - [Scripts & Malware](#Scripts)
+  - [Data & Structure](#Data)
+  - [Machine Learning](#Machine)
+  - [Miscellaneous](#Miscellaneous)
+- [by Language](#by)
+  - [Python](#Python)
+  - [C](#C)
+  - [Assembly](#Assemblt)
+  - [MATLAB](#MATLAB)
 
 
 
-## Favourites ##
+- #### Favourites ####
   - [caesar.salad](https://github.com/mightbesimon/caesar.salad)
   - [PONG](https://github.com/mightbesimon/PONG)
 
 
-## by Topic ##
 
 - #### Univeristy of Auckland ####
   - [UoA Engineering 2019](https://github.com/mightbesimon/UoA-Engineering-2019)
   - [Uoa CompSci 2020](https://github.com/mightbesimon/Uoa-CompSci-2020)
+
+
 
 - #### Cryptography ####
   - [caesar.salad](https://github.com/mightbesimon/caesar.salad)
@@ -40,3 +57,21 @@
 
 - #### Miscellaneous ####
   - [fizzbuzz](https://gist.github.com/mightbesimon/61628ec26d3b1cd3ab917827a58163ef)
+
+
+
+### by Language ###
+
+- #### Python ####
+  - [caesar.salad](https://github.com/mightbesimon/caesar.salad)
+  - [salthash](https://gist.github.com/mightbesimon/29c8a82467dea6cf9f2a10b80e2440fd)
+  - [hash crack](https://gist.github.com/mightbesimon/2e0d76ac2e4b293386b2aad9d547da32) 
+
+- #### C ####
+  - [UoA Engineering 2019](https://github.com/mightbesimon/UoA-Engineering-2019)
+
+- #### MATLAB ####
+  - [UoA Engineering 2019](https://github.com/mightbesimon/UoA-Engineering-2019)
+
+- #### Assembly ####
+  - [Uoa CompSci 2020](https://github.com/mightbesimon/Uoa-CompSci-2020)
